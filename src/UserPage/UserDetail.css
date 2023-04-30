@@ -1,0 +1,30 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main-user{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.user-Details{
+    line-height: 40px;
+    border-radius: 10px;
+    justify-content: center;
+    width: 60%;
+    height: 50vh;
+    background-color: blueviolet;
+    color: white;
+}
+.fa-xmark{
+    font-size: 40px;
+    position: absolute;
+    top: 18%;
+    left:76%;
+}
+.close{
+    font-size: 30px;
+    position: absolute;
+    top: 18%;
+    left:63%;
+}
